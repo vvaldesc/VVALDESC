@@ -10,7 +10,7 @@
 
 ## Skills and Tools 💻
 <div display="flex">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,symfony,java,mysql,linux,vscode,git,cpp,eclipse,bluej,oracle,github&perline=20" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,symfony,java,mysql,linux,vscode,git,cpp,eclipse,github&perline=20" />
 </div>
 
 ## My statistics 📊
