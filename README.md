@@ -1,17 +1,13 @@
 ### <h1> Hello, I'm Víctor Valdés 👋 </h1>
-
-## About Me 🧑‍💻
-- 🎓 Web Application Development Student at IES Ribera del Tajo.
-- 🌐 Learning new technologies and languages.
-- 🚀 Passionate about technology and new challenges.
-
-## Connect with me 🌐
 <a href = 'https://www.linkedin.com/in/víctor-valdés-cobos-806349297/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-## Skills and Tools 💻
-<div display="flex">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,symfony,java,mysql,linux,vscode,git,cpp,eclipse,github&perline=20" />
-</div>
+## About Me 🧑‍💻
+- 🎓 Data Engineer & E2E Full Stack at STEMDO.
+- 🎓 Big Data & IA Specialist.
+- 🎓 Software Engineer student at UNIR.
+- 🎓 Active freelancer currently working on different projects.
+- 🌐 Learning new technologies and languages.
+- 🚀 Passionate about technology and new challenges.
 
 ## My statistics 📊
 <div width="100%" display="flex" flex-direction="flex-column" align-items="center">
